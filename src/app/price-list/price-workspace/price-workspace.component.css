@@ -1,0 +1,32 @@
+*{
+  line-height: 30px;
+}
+.price-listName{
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.classics{
+  text-align: center;
+}
+
+.whatWeUse{
+  display: flex;
+}
+
+.weUse, .aboutUs, .shaving, .cost{
+  max-width: 400px;
+  min-width: 400px;
+  margin-right: 80px;
+}
+
+.shaving-cost{
+  display: flex;
+  margin-top: 15px;
+}
+
+.shaving{
+
+}
+
+

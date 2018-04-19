@@ -1,0 +1,6 @@
+<table class="table" *ngFor="let service of serviceTable | async">
+  <tr>
+    <td>{{service.serviceName}}</td>
+    <td>{{service.serviceCost}}&#8381;</td>
+  </tr>
+</table>
